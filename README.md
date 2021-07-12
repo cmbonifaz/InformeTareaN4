@@ -11,6 +11,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ### 1. OBJETIVOS
 
+- Clarificar el estudio de circuitos en serie-paralelo, de la misma forma los distintos métodos de analisis todo esto aplicando los conocimientos aprendidos durante clases.
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 7 (Circuitos en serie-paralelo)
