@@ -19,6 +19,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 8 (Métodos de análisis)
 
+<img src="imagenes/Método de análisis.png">
+
 ***28. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-83. Use sus resultados para determinar I2 y Vab.***
 
 <img src="imagenes/fig8_83.jpg" width="300">
