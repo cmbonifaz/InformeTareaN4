@@ -31,7 +31,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***33. Escriba las ecuaciones de nodos para el circuito de la figura 8-88 y encuentre los voltajes en los nodos.***
 
-***34. Escriba las ecuaciones de nodos para el circuito de la figura 8-89 y determine el voltaje Vab.**
+***34. Escriba las ecuaciones de nodos para el circuito de la figura 8-89 y determine el voltaje Vab.***
 
 **35. Repita el problema 33 para el circuito de la figura 8-90.***
 
