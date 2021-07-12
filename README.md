@@ -21,10 +21,15 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="imagenes/Método de Análisis.png">
 
+### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+#### Capitulo 7 (Circuitos en serie-paralelo)
+
+#### Capitulo 8 (Métodos de análisis)
+
 ***28. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-83. Use sus resultados para determinar I2 y Vab.***
 
 <img src="imagenes/fig8_83.jpg" width="300">
-
 
 ***29. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-84. Use sus resultados para determinar I y Vab.***
 
@@ -97,13 +102,6 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***53. Utilice PSpice para encontrar las corrientes a través de todos los resistores del circuito de la figura 8-96.***
 
 ***54. Utilice PSpice para encontrar las corrientes a través de todos los resistores del circuito de la figura 8-97.***
-
-
-### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
-
-#### Capitulo 7 (Circuitos en serie-paralelo)
-
-#### Capitulo 8 (Métodos de análisis)
 
 ### 4. VIDEO
 
