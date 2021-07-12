@@ -33,7 +33,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***34. Escriba las ecuaciones de nodos para el circuito de la figura 8-89 y determine el voltaje Vab.***
 
-**35. Repita el problema 33 para el circuito de la figura 8-90.***
+***35. Repita el problema 33 para el circuito de la figura 8-90.***
 
 ***36. Repita el problema 34 para el circuito de la figura 8-91.***
 
@@ -57,7 +57,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***46.Repita el problema 43 para el circuito de la figura 8-99.***
 
-***47.Vea el circuito puente de la figura 8-100:**
+***47.Vea el circuito puente de la figura 8-100:***
 
 ***a. ¿El puente está balanceado? Explique.***
 
@@ -79,7 +79,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***49.En el circuito puente de la figura 8-102 encuentre la corriente a través de cada resistor.***
 
-***50. Vea el circuito puente de la figura 8-103:**
+***50. Vea el circuito puente de la figura 8-103:***
 
 ***a. Determine el valor de la resistencia Rx cuando el puente está balanceado.***
 
