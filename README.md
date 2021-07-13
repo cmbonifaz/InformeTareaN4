@@ -53,6 +53,18 @@ Redibujamos el circuito:
 
 <img src="imagenes/circ29.jpg" width="300">
 
+<img src="imagenes/ejer29part1.jpg" width="300">
+
+Sistema de ecuaciones entre 1 y 2
+
+<img src="imagenes/ejer29part2.jpg">
+
+<img src="imagenes/ejer29part3.jpg" width="230">
+
+<img src="imagenes/ejer29part4.jpg" width="200">
+
+<img src="imagenes/ejer29part5.jpg" width="280">
+
 ***30. Utilice el análisis de malla para determinar la corriente a través del resistor de n6  en el circuito de la figura 8-85.***
 
 <img src="imagenes/fig8_85.jpg" width="250">
