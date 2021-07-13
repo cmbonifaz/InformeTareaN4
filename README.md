@@ -199,7 +199,11 @@ Sistema de ecuaciones entre 1 y 2:
 
 *Literal a*
 
+<img src="imagenes/ejer39part1.jpg">
+
 *Literal b*
+
+<img src="imagenes/ejer39part2.jpg">
 
 ***40. Convierta cada una de las redes de la figura 8-93 en su configuración Y equivalente.***
 
@@ -207,7 +211,11 @@ Sistema de ecuaciones entre 1 y 2:
 
 *Literal a*
 
+<img src="imagenes/ejer40part1.jpg">
+
 *Literal b*
+
+<img src="imagenes/ejer40part2.jpg">
 
 ***41. Convierta cada una de las redes Y de la figura 8-94 en su configuración ⧍ equivalente.***
 
@@ -215,7 +223,11 @@ Sistema de ecuaciones entre 1 y 2:
 
 *Literal a*
 
+<img src="imagenes/ejer41part1.jpg">
+
 *Literal b*
+
+<img src="imagenes/ejer41part2.jpg">
 
 ***42. Convierta cada una de las redes Y de la figura 8-95 en su configuración ⧍ equivalente.***
 
