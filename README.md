@@ -123,6 +123,14 @@ Resolviendo por determinantes:
 
 <img src="imagenes/fig8_89.jpg" width="250">
 
+Nodo a
+ 
+ 
+ 
+Nodo b
+
+
+
 ***35. Repita el problema 33 para el circuito de la figura 8-90.***
 
 <img src="imagenes/fig8_90.jpg" width="250">
