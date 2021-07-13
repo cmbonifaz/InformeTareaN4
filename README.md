@@ -143,9 +143,13 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="imagenes/fig8_86.jpg" width="250">
 
+<img src="imagenes/ejer51.jpg">
+
 ***52. Utilice Multisim para encontrar el voltaje en un resistor de 5 kΩ en el circuito de la figura 8-87.***
 
 <img src="imagenes/fig8_87.jpg" width="250">
+
+<img src="imagenes/ejer52.jpg">
 
 ***53. Utilice PSpice para encontrar las corrientes a través de todos los resistores del circuito de la figura 8-96.***
 
