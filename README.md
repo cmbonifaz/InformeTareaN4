@@ -197,13 +197,25 @@ Sistema de ecuaciones entre 1 y 2:
 
 <img src="imagenes/fig8_92.jpg" width="350">
 
+*Literal a*
+
+*Literal b*
+
 ***40. Convierta cada una de las redes de la figura 8-93 en su configuración Y equivalente.***
 
 <img src="imagenes/fig8_93.jpg" width="350">
 
+*Literal a*
+
+*Literal b*
+
 ***41. Convierta cada una de las redes Y de la figura 8-94 en su configuración ⧍ equivalente.***
 
 <img src="imagenes/fig8_94.jpg" width="250">
+
+*Literal a*
+
+*Literal b*
 
 ***42. Convierta cada una de las redes Y de la figura 8-95 en su configuración ⧍ equivalente.***
 
