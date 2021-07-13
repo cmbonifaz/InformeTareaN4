@@ -17,6 +17,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 7 (Circuitos en serie-paralelo)
 
+<img src="imagenes/resumen cap7.png">
+
 #### Capitulo 8 (Métodos de análisis)
 
 <img src="imagenes/Método de Análisis.png">
