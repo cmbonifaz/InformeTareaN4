@@ -73,6 +73,8 @@ Redibujamos el circuito:
 
 <img src="imagenes/circ30.jpg" width="300">
 
+<img src="imagenes/ejer30part1.jpg" width="250">
+
 ***31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes.***
 
 <img src="imagenes/fig8_86.jpg" width="250">
