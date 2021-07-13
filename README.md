@@ -125,15 +125,29 @@ Resolviendo por determinantes:
 
 Nodo a
  
- 
+<img src="imagenes/ejer34part1a.jpg" width="250">
  
 Nodo b
 
+<img src="imagenes/ejer34part1b.jpg" width="250">
 
+Sistema de Ecuaciones entre 1 y 2
+
+<img src="imagenes/ejer34part2.jpg">
+
+<img src="imagenes/ejer34part3.jpg" width="250">
 
 ***35. Repita el problema 33 para el circuito de la figura 8-90.***
 
 <img src="imagenes/fig8_90.jpg" width="250">
+
+Nodo a
+
+<img src="imagenes/ejer35part1.jpg" width="250">
+
+Nodo b
+
+<img src="imagenes/ejer35part2.jpg" width="250">
 
 ***36. Repita el problema 34 para el circuito de la figura 8-91.***
 
