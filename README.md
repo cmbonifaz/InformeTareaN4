@@ -309,6 +309,8 @@ Sistema de ecuaciones entre 1 y 2:
 
 ### 5. CONCLUSIONES 
 
+- Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por Circuitos en serie-paralelo o por los distintos Métodos de análisis que lo aprendidio en clases se ha clarificado.
+
 ### 6. BIBLIOGRAFÍA
 
 Robbins, A., & Miller, W. (2008). Análisis de circuitos. Estados Unidos: Cengage Learning.
