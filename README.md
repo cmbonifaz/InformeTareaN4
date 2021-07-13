@@ -157,6 +157,16 @@ Redibujamos el circuito:
 
 <img src="imagenes/circ36.jpg" width="300">
 
+<img src="imagenes/ejer36part1.jpg">
+
+Nodo a
+
+<img src="imagenes/ejer36part2.jpg" width="250">
+
+Nodo b
+
+<img src="imagenes/ejer36part3.jpg" width="250">
+
 ***37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6Ω.***
 
 <img src="imagenes/fig8_86.jpg" width="250">
@@ -168,6 +178,20 @@ Redibujamos el circuito:
 Redibujamos el circuito:
 
 <img src="imagenes/circ38.jpg" width="300">
+
+Nodo a
+
+<img src="imagenes/ejer38part1.jpg" width="250">
+
+Nodo b
+
+<img src="imagenes/ejer38part2.jpg" width="250">
+
+Sistema de ecuaciones entre 1 y 2:
+
+<img src="imagenes/ejer38part3.jpg">
+
+<img src="imagenes/ejer38part4.jpg" width="220">
 
 ***39. Convierta cada una de las redes de la figura 8-92 en su configuración Y equivalente.***
 
