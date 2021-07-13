@@ -135,7 +135,7 @@ Sistema de Ecuaciones entre 1 y 2
 
 <img src="imagenes/ejer34part2.jpg">
 
-<img src="imagenes/ejer34part3.jpg" width="250">
+<img src="imagenes/ejer34part3.jpg" width="200">
 
 ***35. Repita el problema 33 para el circuito de la figura 8-90.***
 
