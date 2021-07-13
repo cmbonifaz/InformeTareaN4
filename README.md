@@ -28,61 +28,126 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 #### Capitulo 7 (Circuitos en serie-paralelo)
 
 #### Capitulo 8 (Métodos de análisis)
-**1. Encuentre el voltaje VS para el circuito de la figura 8-64.**
 
-<img src="imagenes/Ejer-1.jpg">
+***15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.***
 
-**2.	Encuentre el voltaje VS para el circuito de la figura 8-65.**
+<img src="imagenes/cap8/Captura.PNG">
 
-<img src="imagenes/Ejer-2.jpg">
+<img src="imagenes/cap8/Captura1.PNG">
 
-**3.	Vea el circuito de la figura 8-66: a. Encuentre la corriente I3. b. Determine los voltajes VS y V1.**
+***16. Convierta las fuentes de voltaje de la figura 8-77 en sus fuentes de corriente equivalentes y calcule la corriente I1 y el voltaje Vab.***
 
-<img src="imagenes/Ejer-3.jpg">
+<img src="imagenes/cap8/Captura2.PNG">
 
-**4.	Considere el circuito de la figura 8-67: a. Calcule los voltajes V2 y VS. b. Encuentre las corrientes I e I3.**
+<img src="imagenes/cap8/Captura3.PNG">
 
-<img src="imagenes/Ejer-4.jpg">
+***17. Para el circuito de la figura 8-78 convierta la fuente de corriente y el resistor de 2.4 kΩ en una fuente de voltaje y calcule el voltaje Vab y la corriente I3.***
 
-**5.	Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.**
+<img src="imagenes/cap8/Captura4.PNG">
 
-<img src="imagenes/Ejer-5.jpg">
+<img src="imagenes/cap8/Captura5.PNG">
 
-**6. Vea del circuito de la figura 8-69: a. Encuentre los voltajes VS y V2. b. Determine la corriente I4.**
+***18. Para el circuito de la figura 8-78 convierta la fuente de voltaje y los resistores en serie en una fuente de corriente equivalente.***
 
-<img src="imagenes/Ejer-6.jpg">
+<img src="imagenes/cap8/Captura6.PNG">
 
-**7.	Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68.**
+a. Determine la corriente I2.
 
-<img src="imagenes/Ejer-7.jpg">
+<img src="imagenes/cap8/Captura7.PNG">
 
-**8.	Verifique que la potencia suministrada por la fuente en el circuito de la figura 8-69 es igual a la suma de las potencias disipadas por los resistores.**
+b. Encuentre el voltaje Vab.
 
-<img src="imagenes/Ejer-8.jpg">
+<img src="imagenes/cap8/Captura8.PNG">
 
-**9.	Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.**
+***19. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-79 y encuentre las corrientes de rama mediante determinantes.***
 
-<img src="imagenes/Ejer-9.jpg">
+<img src="imagenes/cap8/Captura9.PNG">
 
-**10.	Convierta cada fuente de corriente de la figura 8-71 en su fuente de voltaje equivalente.**
+<img src="imagenes/cap8/Captura10.PNG">
 
-<img src="imagenes/Ejer-10.jpg">
+***20. Vea el circuito de la figura 8-80:***
 
-**11.	Vea el circuito de la figura 8-72: a. Encuentre la corriente a través del resistor de carga con la regla del divisor de corriente. b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine, otra vez, la corriente a través de la carga.**
+<img src="imagenes/cap8/Captura29.PNG">
 
-<img src="imagenes/Ejer-11.jpg">
+a.	Encuentre la corriente I1, use el análisis de corriente de rama.
 
-**12.	Encuentre Vab e I2 para la red de la figura 8-73.**
+<img src="imagenes/cap8/Captura11.PNG">
 
-<img src="imagenes/Ejer-12.jpg">
+b.	Encuentre el voltaje Vab.
 
-**13.	Vea el circuito de la figura 8-74: a. Convierta la fuente de corriente y el resistor de 330ohm en su fuente de voltaje equivalente. b. Encuentre la corriente I a través de RL. c. Determine el voltaje Vab.**
+<img src="imagenes/cap8/Captura12.PNG">
 
-<img src="imagenes/Ejer-13.jpg">
+***21. Escriba las ecuaciones de corriente de rama para el circuito de la figura 8-81 y encuentre la corriente I2.***
 
-**14.	Vea el circuito de la figura 8-75: a. Convierta la fuente de voltaje y el resistor de 36ohm en fuente de corriente equivalente. b. Encuentre la corriente a través de RL. c. Determine el voltaje Vab.**
+<img src="imagenes/cap8/Captura13.PNG">
 
-<img src="imagenes/Ejer-14.jpg">
+<img src="imagenes/cap8/Captura14.PNG">
+
+***22. Vea el circuito que se muestra en la figura 8-82:***
+
+<img src="imagenes/cap8/Captura15.PNG">
+
+a.	Escriba las ecuaciones de corriente de rama.
+
+<img src="imagenes/cap8/Captura16.PNG">
+
+b. Encuentre las corrientes I1 e I2.
+
+<img src="imagenes/cap8/Captura17.PNG">
+
+c. Determine el voltaje Vab.
+
+<img src="imagenes/cap8/Captura18.PNG">
+
+***23. Vea el circuito de la figura 8-83:***
+
+<img src="imagenes/cap8/Captura19.PNG">
+
+a.	Escriba las ecuaciones de corriente de rama.
+
+<img src="imagenes/cap8/Captura20.PNG">
+
+b.	Encuentre la corriente I2.
+
+<img src="imagenes/cap8/Captura21.PNG">
+
+c.	Determine el voltaje Vab.
+
+<img src="imagenes/cap8/Captura22.PNG">
+
+***24. Vea el circuito de la figura 8-84:***
+
+<img src="imagenes/cap8/Captura23.PNG">
+
+a.	Escriba las ecuaciones de corriente de rama.
+
+<img src="imagenes/cap8/Captura24.PNG">
+
+b. Encuentre la corriente I.
+
+<img src="imagenes/cap8/Captura25.PNG">
+
+c. Determine el voltaje Vab.
+
+<img src="imagenes/cap8/Captura26.PNG">
+
+***25. Escriba las ecuaciones de malla para el circuito que se muestra en la figura 8-79 y encuentre las corrientes de lazo.***
+
+<img src="imagenes/cap8/Captura27.PNG">
+
+<img src="imagenes/cap8/Captura28.PNG">
+
+***26. Utilice el análisis de mallas en el circuito de la figura 8-80 para encontrar la corriente I1.***
+
+<img src="imagenes/cap8/Captura29.PNG">
+
+<img src="imagenes/cap8/Captura30.PNG">
+
+***27. Utilice el análisis de malla para encontrar la corriente I2 en el circuito de la figura 8-81.***
+
+<img src="imagenes/cap8/Captura31.PNG">
+
+<img src="imagenes/cap8/Captura32.PNG">
 
 ***28. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-83. Use sus resultados para determinar I2 y Vab.***
 
