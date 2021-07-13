@@ -103,6 +103,18 @@ Redibujamos el circuito:
 
 <img src="imagenes/circ32.jpg" width="300">
 
+<img src="imagenes/ejer32part1.jpg" width="250">
+
+Sistema de ecuaciones de 1 y 2:
+
+<img src="imagenes/ejer32part2.jpg" width="250">
+
+Resolviendo por determinantes:
+
+<img src="imagenes/ejer32part3.jpg">
+
+<img src="imagenes/ejer32part4.jpg">
+
 ***33. Escriba las ecuaciones de nodos para el circuito de la figura 8-88 y encuentre los voltajes en los nodos.***
 
 <img src="imagenes/fig8_88.jpg" width="250">
