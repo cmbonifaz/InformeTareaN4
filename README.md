@@ -289,13 +289,6 @@ Sistema de ecuaciones entre 1 y 2:
 
 <img src="imagenes/ejer52.jpg">
 
-***53. Utilice PSpice para encontrar las corrientes a través de todos los resistores del circuito de la figura 8-96.***
-
-<img src="imagenes/fig8_96.jpg" width="250">
-
-***54. Utilice PSpice para encontrar las corrientes a través de todos los resistores del circuito de la figura 8-97.***
-
-<img src="imagenes/fig8_97.jpg" width="250">
 
 ### 4. VIDEO
 
