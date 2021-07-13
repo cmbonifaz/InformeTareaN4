@@ -294,6 +294,8 @@ Sistema de ecuaciones entre 1 y 2:
 
 ### 4. VIDEO
 
+[Problemas Capítulos 5 y 6 - Informe Tarea N°4](https://youtu.be/fWUz80Gsydk "Problemas Capítulos 5 y 6 - Informe Tarea N°4")
+
 ### 5. CONCLUSIONES 
 
 - Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por Circuitos en serie-paralelo o por los distintos Métodos de análisis que lo aprendidio en clases se ha clarificado.
