@@ -167,10 +167,6 @@ Nodo b
 
 <img src="imagenes/ejer36part3.jpg" width="250">
 
-***37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6Ω.***
-
-<img src="imagenes/fig8_86.jpg" width="250">
-
 ***38. Escriba las ecuaciones de nodos para el circuito de la figura 8-85 y encuentre V6Ω.***
 
 <img src="imagenes/fig8_85.jpg" width="250">
@@ -233,49 +229,43 @@ Sistema de ecuaciones entre 1 y 2:
 
 <img src="imagenes/fig8_95.jpg" width="350">
 
+<img src="imagenes/eje42.jpeg">
+
 ***43. Utilice las conversiones⧍-Y o Y-⧍, para encontrar la corriente I para el circuito de la figura 8-96.***
 
 <img src="imagenes/fig8_96.jpg" width="250">
+
+<img src="imagenes/eje43.jpeg">
 
 ***44. Utilice las conversiones⧍-Y o Y-⧍, para encontrar la corriente I para el circuito de la figura 8-97.***
 
 <img src="imagenes/fig8_97.jpg" width="250">
 
+<img src="imagenes/eje44.jpeg">
+
 ***45. Repita el problema 43 para el circuito de la figura 8-98.***
 
 <img src="imagenes/fig8_98.jpg" width="250">
+
+<img src="imagenes/eje45.jpeg">
 
 ***46.Repita el problema 43 para el circuito de la figura 8-99.***
 
 <img src="imagenes/fig8_99.jpg" width="250">
 
+<img src="imagenes/eje46.jpeg">
+
 ***47.Vea el circuito puente de la figura 8-100:***
 
 <img src="imagenes/fig8_100.jpg" width="250">
 
-***a. ¿El puente está balanceado? Explique.***
-
-***b. Escriba las ecuaciones de malla.***
-
-***c. Calcule la corriente a través de R5.***
-
-***d. Determine el voltaje en R5.***
+<img src="imagenes/eje47.jpeg">
 
 ***48. Considere el circuito puente de la figura 8-101:***
 
 <img src="imagenes/fig8_101.jpg" width="250">
 
-***a. ¿El puente está balanceado? Explique.***
-
-***b. Escriba las ecuaciones de mallas.***
-
-***c. Calcule la corriente a través de R5.***
-
-***d. Determine el voltaje en R5.***
-
-***49.En el circuito puente de la figura 8-102 encuentre la corriente a través de cada resistor.***
-
-<img src="imagenes/fig8_102.jpg" width="250">
+<img src="imagenes/eje48.jpeg">
 
 ***50. Vea el circuito puente de la figura 8-103:***
 
@@ -284,6 +274,8 @@ Sistema de ecuaciones entre 1 y 2:
 ***a. Determine el valor de la resistencia Rx cuando el puente está balanceado.***
 
 ***b.Calcule la corriente a través de R5 cuando Rx=0Ω  y cuando Rx=10 kΩ.***
+
+<img src="imagenes/eje50.jpeg">
 
 ***51. Utilice Multisim para encontrar las corrientes a través de todos los resistores del circuito que se muestra en la figura 8-86.*** 
 
