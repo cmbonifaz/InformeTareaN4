@@ -83,6 +83,18 @@ Redibujamos el circuito:
 
 <img src="imagenes/circ31.jpg" width="300">
 
+<img src="imagenes/ejer31part1.jpg" width="300">
+
+Sistema de ecuaciones de 1,2 y 3:
+
+<img src="imagenes/ejer31part2.jpg" width="300">
+
+Resolviendo por determinantes:
+
+<img src="imagenes/ejer31part3.jpg" width="450">
+
+<img src="imagenes/ejer31part4.jpg" width="480">
+
 ***32. Repita el problema 31 para la red de la figura 8-87.***
 
 <img src="imagenes/fig8_87.jpg" width="250">
