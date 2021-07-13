@@ -28,6 +28,61 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 #### Capitulo 7 (Circuitos en serie-paralelo)
 
 #### Capitulo 8 (Métodos de análisis)
+**1. Encuentre el voltaje VS para el circuito de la figura 8-64.**
+
+<img src="imagenes/Ejer-1.jpg">
+
+**2.	Encuentre el voltaje VS para el circuito de la figura 8-65.**
+
+<img src="imagenes/Ejer-2.jpg">
+
+**3.	Vea el circuito de la figura 8-66: a. Encuentre la corriente I3. b. Determine los voltajes VS y V1.**
+
+<img src="imagenes/Ejer-3.jpg">
+
+**4.	Considere el circuito de la figura 8-67: a. Calcule los voltajes V2 y VS. b. Encuentre las corrientes I e I3.**
+
+<img src="imagenes/Ejer-4.jpg">
+
+**5.	Para el circuito de la figura 8-68 encuentre las corrientes I1 e I2.**
+
+<img src="imagenes/Ejer-5.jpg">
+
+**6. Vea del circuito de la figura 8-69: a. Encuentre los voltajes VS y V2. b. Determine la corriente I4.**
+
+<img src="imagenes/Ejer-6.jpg">
+
+**7.	Verifique que la potencia suministrada por las fuentes es igual a la suma de las potencias disipadas por los resistores en el circuito de la figura 8-68.**
+
+<img src="imagenes/Ejer-7.jpg">
+
+**8.	Verifique que la potencia suministrada por la fuente en el circuito de la figura 8-69 es igual a la suma de las potencias disipadas por los resistores.**
+
+<img src="imagenes/Ejer-8.jpg">
+
+**9.	Convierta cada fuente de voltaje de la figura 8-70 en su fuente de corriente equivalente.**
+
+<img src="imagenes/Ejer-9.jpg">
+
+**10.	Convierta cada fuente de corriente de la figura 8-71 en su fuente de voltaje equivalente.**
+
+<img src="imagenes/Ejer-10.jpg">
+
+**11.	Vea el circuito de la figura 8-72: a. Encuentre la corriente a través del resistor de carga con la regla del divisor de corriente. b. Convierta la fuente de corriente en su fuente de voltaje equivalente y determine, otra vez, la corriente a través de la carga.**
+
+<img src="imagenes/Ejer-11.jpg">
+
+**12.	Encuentre Vab e I2 para la red de la figura 8-73.**
+
+<img src="imagenes/Ejer-12.jpg">
+
+**13.	Vea el circuito de la figura 8-74: a. Convierta la fuente de corriente y el resistor de 330ohm en su fuente de voltaje equivalente. b. Encuentre la corriente I a través de RL. c. Determine el voltaje Vab.**
+
+<img src="imagenes/Ejer-13.jpg">
+
+**14.	Vea el circuito de la figura 8-75: a. Convierta la fuente de voltaje y el resistor de 36ohm en fuente de corriente equivalente. b. Encuentre la corriente a través de RL. c. Determine el voltaje Vab.**
+
+<img src="imagenes/Ejer-14.jpg">
 
 ***28. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-83. Use sus resultados para determinar I2 y Vab.***
 
