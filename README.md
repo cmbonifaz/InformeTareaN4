@@ -35,8 +35,15 @@ Redibujamos el circuito:
 
 <img src="imagenes/circ28.jpg" width="300">
 
+<img src="imagenes/ejer28part1.jpg" width="300">
+
 Sistema de ecuaciones entre 1 y 2
 
+<img src="imagenes/ejer28part2.jpg">
+
+<img src="imagenes/ejer28part3.jpg" width="200">
+
+<img src="imagenes/ejer28part4.jpg" width="220">
 
 ***29. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-84. Use sus resultados para determinar I y Vab.***
 
