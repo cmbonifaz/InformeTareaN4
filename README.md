@@ -31,21 +31,41 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="imagenes/fig8_83.jpg" width="300">
 
+Redibujamos el circuito:
+
+<img src="imagenes/circ28.jpg" width="300">
+
 ***29. Utilice el análisis de malla para encontrar las corrientes de lazo en el circuito de la figura 8-84. Use sus resultados para determinar I y Vab.***
 
 <img src="imagenes/fig8_84.jpg" width="300">
+
+Redibujamos el circuito:
+
+<img src="imagenes/circ29.jpg" width="300">
 
 ***30. Utilice el análisis de malla para determinar la corriente a través del resistor de n6  en el circuito de la figura 8-85.***
 
 <img src="imagenes/fig8_85.jpg" width="250">
 
+Redibujamos el circuito:
+
+<img src="imagenes/circ30.jpg" width="300">
+
 ***31. Escriba las ecuaciones de malla para la red de la figura 8-86. Encuentre las corrientes de lazo con determinantes.***
 
 <img src="imagenes/fig8_86.jpg" width="250">
 
+Redibujamos el circuito:
+
+<img src="imagenes/circ31.jpg" width="300">
+
 ***32. Repita el problema 31 para la red de la figura 8-87.***
 
 <img src="imagenes/fig8_87.jpg" width="250">
+
+Redibujamos el circuito:
+
+<img src="imagenes/circ32.jpg" width="300">
 
 ***33. Escriba las ecuaciones de nodos para el circuito de la figura 8-88 y encuentre los voltajes en los nodos.***
 
@@ -63,6 +83,10 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="imagenes/fig8_91.jpg" width="250">
 
+Redibujamos el circuito:
+
+<img src="imagenes/circ36.jpg" width="300">
+
 ***37. Escriba las ecuaciones de nodos para el circuito de la figura 8-86 y encuentre V6Ω.***
 
 <img src="imagenes/fig8_86.jpg" width="250">
@@ -70,6 +94,10 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***38. Escriba las ecuaciones de nodos para el circuito de la figura 8-85 y encuentre V6Ω.***
 
 <img src="imagenes/fig8_85.jpg" width="250">
+
+Redibujamos el circuito:
+
+<img src="imagenes/circ38.jpg" width="300">
 
 ***39. Convierta cada una de las redes de la figura 8-92 en su configuración Y equivalente.***
 
