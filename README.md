@@ -47,6 +47,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***27. Vea el circuito de la figura 7-69:***
 
+<img src="imagenes/fig7-69.jpeg">
+
 ***a. Determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe entre sus valores mínimo y máximo.***
 
  ***b. Si R2 se ajusta para tener 2.5 k ¿cuál será el voltaje VL? Si se remueve el resistor de carga ¿qué voltaje aparecerá entre las terminales a y b?***
