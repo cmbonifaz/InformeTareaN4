@@ -27,6 +27,30 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 7 (Circuitos en serie-paralelo)
 
+***11. Vea el circuito de la ﬁgura 7-54. Encuentre las siguientes cantidades:***
+
+***a. RT***
+
+***b. IT, I1, I2, I3, I4***
+
+***c. Vab, Vbc.***
+
+***13. Vea el circuito de la ﬁgura 7-56.***
+
+***a. Encuentre las corrientes I1, I2, I3, I4, I5 e I6.***
+
+***b. Encuentre los voltajes Vab y Vcd.***
+
+***c. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.***
+
+***15. Vea los circuitos de la ﬁgura 7-58:***
+
+***a. Encuentre las corrientes indicadas.***
+
+***b. Encuentre el voltaje Vab.***
+
+***c. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.***
+
 ***21. En el circuito de la figura 7-64 determine VB, IC y VCE.***
 
 <img src="imagenes/fig7-64.jpeg">
