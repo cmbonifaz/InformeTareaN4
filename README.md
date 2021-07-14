@@ -27,6 +27,38 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 #### Capitulo 7 (Circuitos en serie-paralelo)
 
+***21. En el circuito de la figura 7-64 determine VB, IC y VCE.***
+
+***23. Considere el circuito de la figura 7-65 y los valores indicados:***
+
+***a. Determine ID.***
+***b. Calcule el valor requerido de RS.*** 
+***c. Encuentre VDS.***
+
+***25. Calcule IC y VCE para el circuito de la figura 7-67.***
+
+***27. Vea el circuito de la figura 7-69:***
+
+***a. Determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe entre sus valores mínimo y máximo.***
+
+ ***b. Si R2 se ajusta para tener 2.5 k ¿cuál será el voltaje VL? Si se remueve el resistor de carga ¿qué voltaje aparecerá entre las terminales a y b?***
+ 
+ ***29.  Si el potenciómetro de la figura 7-70 se ajusta para que R2 200, determine los voltajes Vab y Vbc.***
+ 
+***31. Vea el circuito de la figura 7-71:***
+
+***a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo.***
+
+***b. Calcule R2 cuando Vsal=20 V.***
+
+***33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL = 0 Ω, 250 Ω y 500 Ω.***
+
+***a)	Cuando RL = 0 Ω, el voltaje de salida es cero ya que al multiplicar cualquier numero por cero da cero.***
+
+***b)	Cuando RL = 250 Ω***
+
+
+
 #### Capitulo 8 (Métodos de análisis)
 
 ***15. Encuentre el voltaje V2 y la corriente I1 para el circuito de la figura 8-76.***
