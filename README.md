@@ -77,8 +77,6 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="imagenes/ejer31cap7.jpeg">
 
-<img src="imagenes/ejer31_1cap7.jpeg">
-
 ***33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL = 0 Ω, 250 Ω y 500 Ω.***
 
 <img src="imagenes/fig7-72.jpeg">
