@@ -31,6 +31,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 <img src="imagenes/fig7-64.jpeg">
 
+<img src="imagenes/ejer21cap7.jpeg">
+
 ***23. Considere el circuito de la figura 7-65 y los valores indicados:***
 
 <img src="imagenes/fig7-65.jpeg">
@@ -41,9 +43,13 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***c. Encuentre VDS.***
 
+<img src="imagenes/ejer23cap7.jpeg">
+
 ***25. Calcule IC y VCE para el circuito de la figura 7-67.***
 
 <img src="imagenes/fig7-67.jpeg">
+
+<img src="imagenes/ejer25cap7.jpeg">
 
 ***27. Vea el circuito de la figura 7-69:***
 
@@ -53,9 +59,13 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
  ***b. Si R2 se ajusta para tener 2.5 k ¿cuál será el voltaje VL? Si se remueve el resistor de carga ¿qué voltaje aparecerá entre las terminales a y b?***
  
+ <img src="imagenes/ejer27cap7.jpeg">
+ 
  ***29.  Si el potenciómetro de la figura 7-70 se ajusta para que R2 200, determine los voltajes Vab y Vbc.***
  
  <img src="imagenes/fig7-70.jpeg">
+ 
+ <img src="imagenes/ejer29cap7.jpeg">
  
 ***31. Vea el circuito de la figura 7-71:***
 
@@ -65,6 +75,10 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***b. Calcule R2 cuando Vsal=20 V.***
 
+<img src="imagenes/ejer31cap7.jpeg">
+
+<img src="imagenes/ejer31_1cap7.jpeg">
+
 ***33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL = 0 Ω, 250 Ω y 500 Ω.***
 
 <img src="imagenes/fig7-72.jpeg">
@@ -72,6 +86,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***a)	Cuando RL = 0 Ω, el voltaje de salida es cero ya que al multiplicar cualquier numero por cero da cero.***
 
 ***b)	Cuando RL = 250 Ω***
+
+<img src="imagenes/ejer33cap7.jpeg">
 
 ***35. Un voltímetro con una sensibilidad de S = 20 k Ω /V se usa en la escala de 10 V (con una resistencia interna total de 200 k Ω) para medir el voltaje en el resistor de 750 k Ω de la figura 7-74. El medidor indica un voltaje de 5.00 V.***
 
@@ -83,6 +99,10 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.***
 
+<img src="imagenes/ejer35cap7.jpeg">
+
+<img src="imagenes/ejer35_1cap7.jpeg">
+
 ***37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.***
 
 <img src="imagenes/fig7-76.jpeg">
@@ -93,6 +113,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.***
 
+<img src="imagenes/ejer37cap7.jpeg">
+
+<img src="imagenes/ejer37_1cap7.jpeg">
 
 #### Capitulo 8 (Métodos de análisis)
 
