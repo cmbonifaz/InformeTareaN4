@@ -15,6 +15,7 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 - Conocer y analizar las ideas y conceptos básicos sobre las resistencias tanto en serie como en paralelo, y como se calculan, así como también sobre Ley de Ohm, la ley de Kirchhoff, y los divisores de corriente y voltaje.
 
+-Analizar y comprender cada uno de los temas presentados en estos capitulos, para un mejor manejo de circuitos.
 
 ### 2. MARCO TEÓRICO
 
@@ -608,6 +609,8 @@ Sistema de ecuaciones entre 1 y 2:
 - Mediante el desarrollo de los ejercicios pudimos comprender más ampliamente los conceptos de los circutos serie y paralelo, así como también todos los elementos asociados a ellos como el cálculo de las resistencias equivalentes, como se componen y cómo se miden.
 
 - Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por Circuitos en serie-paralelo o por los distintos Métodos de análisis que lo aprendidio en clases se ha clarificado.
+
+- Gracias al estudio de estos capitulos y lo visto en clase contamos con un amplio conocimiento sobre algunos de los circuitos electronicos, asi podiendo resolver varios de estos ejercicios con mayor facilidad.
 
 ### 6. BIBLIOGRAFÍA
 
