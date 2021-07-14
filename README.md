@@ -29,6 +29,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***11. Vea el circuito de la ﬁgura 7-54. Encuentre las siguientes cantidades:***
 
+<img src="imagenes/fig7-54.jpg">
+
 ***a. RT***
 
 ***b. IT, I1, I2, I3, I4***
@@ -37,6 +39,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***13. Vea el circuito de la ﬁgura 7-56.***
 
+<img src="imagenes/fig7-56.jpg">
+
 ***a. Encuentre las corrientes I1, I2, I3, I4, I5 e I6.***
 
 ***b. Encuentre los voltajes Vab y Vcd.***
@@ -44,6 +48,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***c. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.***
 
 ***15. Vea los circuitos de la ﬁgura 7-58:***
+
+<img src="imagenes/fig7-58.jpg">
 
 ***a. Encuentre las corrientes indicadas.***
 
