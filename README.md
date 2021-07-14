@@ -13,6 +13,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 - Clarificar el estudio de circuitos en serie-paralelo, de la misma forma los distintos métodos de analisis todo esto aplicando los conocimientos aprendidos durante clases.
 
+- Conocer y analizar las ideas y conceptos básicos sobre las resistencias tanto en serie como en paralelo, y como se calculan, así como también sobre Ley de Ohm, la ley de Kirchhoff, y los divisores de corriente y voltaje.
+
+
 ### 2. MARCO TEÓRICO
 
 #### Capitulo 7 (Circuitos en serie-paralelo)
@@ -601,6 +604,8 @@ Sistema de ecuaciones entre 1 y 2:
 [Problemas Capítulos 5 y 6 - Informe Tarea N°4](https://youtu.be/fWUz80Gsydk "Problemas Capítulos 5 y 6 - Informe Tarea N°4")
 
 ### 5. CONCLUSIONES 
+
+- Mediante el desarrollo de los ejercicios pudimos comprender más ampliamente los conceptos de los circutos serie y paralelo, así como también todos los elementos asociados a ellos como el cálculo de las resistencias equivalentes, como se componen y cómo se miden.
 
 - Se puede concluir que mediante distintos tipos de ejercicios propuestos sea por Circuitos en serie-paralelo o por los distintos Métodos de análisis que lo aprendidio en clases se ha clarificado.
 
