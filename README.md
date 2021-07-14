@@ -29,7 +29,11 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***21. En el circuito de la figura 7-64 determine VB, IC y VCE.***
 
+<img src="imagenes/fig7-64.jpeg">
+
 ***23. Considere el circuito de la figura 7-65 y los valores indicados:***
+
+<img src="imagenes/fig7-65.jpeg">
 
 ***a. Determine ID.***
 
@@ -39,6 +43,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***25. Calcule IC y VCE para el circuito de la figura 7-67.***
 
+<img src="imagenes/fig7-67.jpeg">
+
 ***27. Vea el circuito de la figura 7-69:***
 
 ***a. Determine el intervalo de voltajes que aparecerán en RL a medida que el potenciómetro varíe entre sus valores mínimo y máximo.***
@@ -47,7 +53,11 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
  
  ***29.  Si el potenciómetro de la figura 7-70 se ajusta para que R2 200, determine los voltajes Vab y Vbc.***
  
+ <img src="imagenes/fig7-70.jpeg">
+ 
 ***31. Vea el circuito de la figura 7-71:***
+
+<img src="imagenes/fig7-71.jpeg">
 
 ***a. Determine el intervalo del voltaje de salida (del mínimo al máximo) que se espera cuando el potenciómetro se ajusta del mínimo al máximo.***
 
@@ -55,11 +65,15 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***33. En el circuito de la figura 7-72 calcule el voltaje de salida Vsal cuando RL = 0 Ω, 250 Ω y 500 Ω.***
 
+<img src="imagenes/fig7-72.jpeg">
+
 ***a)	Cuando RL = 0 Ω, el voltaje de salida es cero ya que al multiplicar cualquier numero por cero da cero.***
 
 ***b)	Cuando RL = 250 Ω***
 
 ***35. Un voltímetro con una sensibilidad de S = 20 k Ω /V se usa en la escala de 10 V (con una resistencia interna total de 200 k Ω) para medir el voltaje en el resistor de 750 k Ω de la figura 7-74. El medidor indica un voltaje de 5.00 V.***
+
+<img src="imagenes/fig7-74.jpeg">
 
 ***a. Determine el valor de la fuente de voltaje E.***
 
@@ -68,6 +82,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.***
 
 ***37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.***
+
+<img src="imagenes/fig7-76.jpeg">
 
 ***a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1.***
 
