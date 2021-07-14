@@ -32,7 +32,9 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***23. Considere el circuito de la figura 7-65 y los valores indicados:***
 
 ***a. Determine ID.***
+
 ***b. Calcule el valor requerido de RS.*** 
+
 ***c. Encuentre VDS.***
 
 ***25. Calcule IC y VCE para el circuito de la figura 7-67.***
@@ -57,6 +59,21 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***b)	Cuando RL = 250 Ω***
 
+***35. Un voltímetro con una sensibilidad de S = 20 k Ω /V se usa en la escala de 10 V (con una resistencia interna total de 200 k Ω) para medir el voltaje en el resistor de 750 k Ω de la figura 7-74. El medidor indica un voltaje de 5.00 V.***
+
+***a. Determine el valor de la fuente de voltaje E.***
+
+***b. ¿Qué voltaje se presentará en el resistor de 750 k Ω cuando el voltímetro se quite del circuito?***
+
+***c. Calcule el efecto de carga del medidor cuando se utilice como se muestra.***
+
+***37. Un amperímetro se usa para medir la corriente en el circuito que se muestra en la figura 7-76.***
+
+***a. Explique cómo conectar de manera correcta el amperímetro para medir la corriente I1.***
+
+***b. Determine los valores indicados cuando el amperímetro se usa para medir cada una de las corrientes que se indican en el circuito.***
+
+***c. Calcule el efecto de carga en el medidor cuando se mide cada una de las corrientes.***
 
 
 #### Capitulo 8 (Métodos de análisis)
