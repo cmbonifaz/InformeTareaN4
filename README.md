@@ -37,6 +37,8 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***c. Vab, Vbc.***
 
+<img src="imagenes/ejer11cap7.jpg">
+
 ***13. Vea el circuito de la ﬁgura 7-56.***
 
 <img src="imagenes/fig7-56.jpg">
@@ -47,6 +49,10 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 
 ***c. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.***
 
+<img src="imagenes/ejer13_1cap7.jpg">
+
+<img src="imagenes/ejer13_2cap7.jpg">
+
 ***15. Vea los circuitos de la ﬁgura 7-58:***
 
 <img src="imagenes/fig7-58.jpg">
@@ -56,6 +62,10 @@ Christian Bonifaz, Mateo Calderon, Josue Camacho, Luis Guevara
 ***b. Encuentre el voltaje Vab.***
 
 ***c. Veriﬁque que la potencia suministrada al circuito es igual a la suma de las potencias disipadas por los resistores.***
+
+<img src="imagenes/ejer15_1cap7.jpg">
+
+<img src="imagenes/ejer15_2cap7.jpg">
 
 ***21. En el circuito de la figura 7-64 determine VB, IC y VCE.***
 
